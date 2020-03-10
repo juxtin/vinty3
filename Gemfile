@@ -1,3 +1,3 @@
 source "https://rubygems.org"
 
-gem "nokogiri", "1.6.2"
+gem "parsel", "0.1.1"
