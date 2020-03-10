@@ -1,0 +1,16 @@
+{
+  "name": "private-repo",
+  "version": "1.0.1",
+  "description": "This is the Contoso Platform",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.10.5",
+    "harp": "0.30.0",
+    "handlebars": "4.1.0",
+    "tar": "3.0.0",
+    "js-yaml": "2.0.3",
+    "adm-zip": "0.4.9",
+    "gulp-nodemon": "2.2.1",
+    "mocha": "2.2.5"
+  }
+}
